@@ -64,7 +64,7 @@
       <footer>
         
 
-        <!-- Main Footer -->
+        <!-- Main Footer Here-->
        
         <hr class="break margin-top-bottom-0" style="border-color: rgba(0, 0, 0, 0.80);">
         
